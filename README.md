@@ -10,3 +10,5 @@
 **Note:**
 App runs on port: 8081
 and the endpoint is http:\//localhost:8081\/api\/distance, a **POST** request
+
+###### npm test to run the test
